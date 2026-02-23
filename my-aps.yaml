@@ -1,8 +1,6 @@
 payload:
  - PROCESS-NAME,Tabby.exe
  - PROCESS-NAME,Atlas.exe
- - PROCESS-NAME,Tabby.exe
- - PROCESS-NAME,Atlas.exe
  - PROCESS-NAME,RiotClientServices.exe
  - PROCESS-NAME,RiotClientCrashHandler.exe
  - PROCESS-NAME,LeagueClientUxRender.exe
